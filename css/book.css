@@ -1,0 +1,39 @@
+
+
+.text {
+  text-indent: 2em; /* หรือจะใช้ px เช่น 20px ก็ได้ */ }
+
+.bg-dark-green {
+  background-color: #067b2c;
+  color: #ffffff; }
+
+.center-image {
+  position: center; /* จัดตรงกลางแนวนอน */}
+
+h3 {color: #23bb51;
+    font-weight: bold; }
+
+.box {
+  border: 2px solid #efedec; /* เส้นขอบสีดำ หนา 2px */
+  box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.3); /* เงาเบาๆ รอบกล่อง */
+  transform: scale(1.02);
+  box-shadow: 0 6px 15px rgba(0,0,0,0.2); }
+
+.box-img {
+  border: 2px solid #efedec; /* เส้นขอบสีดำ หนา 2px */
+  box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.3); /* เงาเบาๆ รอบกล่อง */
+  transform: scale(1.02);
+  box-shadow: 0 6px 15px rgba(0,0,0,0.2); }
+
+h1 {
+  font-family: 'Sriracha', cursive; /* ใช้ฟอนต์ Sriracha */
+  font-weight: 400;                  /* น้ำหนัก 600 (semi-bold) */ }
+
+h3 {
+    font-family: 'Prompt', sans-serif; /* ใช้ฟอนต์ Prompt */
+    font-weight: 600; /* Regular 400 */}
+
+p {
+  font-family: 'Pridi', serif; /* ใช้ฟอนต์ Pridi */
+  font-weight: 300;            /* น้ำหนัก 300 (light) */ }
+
